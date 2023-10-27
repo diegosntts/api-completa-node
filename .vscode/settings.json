@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 15,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ]
+}
