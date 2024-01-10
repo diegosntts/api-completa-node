@@ -25,6 +25,9 @@ module.exports = {
     'no-param-reassing': 'off',
     camelcase: 'off',
     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
-    'max-len': ['error', { code: 80 }],
+    'max-len': ['error', { code: 100 }],
+    'class-methods-use-this': 'off',
+    'no-restricted-syntax': 'off',
+    radix: 'off',
   },
 };
